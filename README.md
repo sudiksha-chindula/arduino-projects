@@ -7,3 +7,7 @@ This repository contains a collection of Arduino projects that I've worked on. F
 ## Stucture
 
 Each folder corresponds to a project, whose contents can be found within the folder. Each such project also has a README file that describes the project in more detail.
+
+## Author
+
+[sudiksha-chindula]!(https://github.com/sudiksha-chindula)
