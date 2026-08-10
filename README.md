@@ -10,4 +10,4 @@ Each folder corresponds to a project, whose contents can be found within the fol
 
 ## Author
 
-@[sudiksha-chindula]!(https://github.com/sudiksha-chindula)
+[@sudiksha-chindula](https://github.com/sudiksha-chindula)
